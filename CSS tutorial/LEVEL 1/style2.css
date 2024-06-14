@@ -1,0 +1,28 @@
+*{
+    color:white 
+}
+h1{
+    color:blue
+}
+#heading1{
+    color:green
+}
+#heading2{
+    color:aquamarine
+}
+#heading3{
+    color:chartreuse
+}
+.class1{
+    color:crimson
+}
+#heading4{
+    background-color:blue;
+    color:white
+    /*this is a comment*/
+}
+button{
+    background-color:blue;
+    color:pink
+}
+

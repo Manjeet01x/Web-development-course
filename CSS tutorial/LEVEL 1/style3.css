@@ -1,0 +1,37 @@
+p{
+    text-align:center
+}
+h1{
+    text-align:center;
+    text-decoration: red wavy underline/*overline,linethrough*/
+}
+a{
+    text-decoration:none;
+}
+#id1{
+    font-weight:normal;
+}
+#id2{
+    font-weight:200;
+}
+#id3{
+    font-weight:bolder;/*font weight ranges100-900*/
+}
+#id4{
+    font-weight:lighter;
+}
+#two{
+    font-family: arial,Verdana, Geneva, Tahoma, sans-serif;   
+}
+#three{
+    font-size:25px;
+}
+#four{
+    font-size:10px;
+}
+#five{
+    line-height:normal;
+    text-transform: uppercase;
+
+}
+

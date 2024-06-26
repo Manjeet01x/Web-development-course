@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin:0;
+}
+#id1{
+    color:white;
+    background-color: #0f1111;
+    height:60px;
+}
+#id2{
+    color: #f08804;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right:200px;
+}
+#id6{
+    height: 600px;
+}
+.class1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+} 
+#id3{
+    background-color: rgba(255,0,0,0.5);
+}
+#id4{
+    background-color: rgba(0,255,0,0.5);
+}
+#id5{
+    background-color: rgba(0,0,255,0.5);
+}
+footer{
+    text-align:center;
+    background-color: #0f1111;
+    color:white;
+}

@@ -1,0 +1,33 @@
+div{
+    height:100px;
+    background-color:lightsalmon;
+    width:100px;
+
+   /* border-width:2px;
+    border-style:solid;
+    border-color:brown;*/
+    border: 2px solid brown;
+    border-radius:15px;/*for circle 50% */
+
+    /*padding-left:25px;
+    padding-right:25px;
+    padding-top:25px;*/
+    padding: 1px 2px 3px 4px;
+
+    /*margin-top:50px;
+    margin-bottom:50px;*/
+    margin:25px;
+
+
+}
+
+h1{
+    width:300px;
+    background-color:aquamarine;
+   /* border-width:3px;
+    border-style:dashed;
+    border-color:blue;*/
+    border: 3px dashed blue;
+
+    text-align:center;
+}

@@ -1,0 +1,15 @@
+#box1{
+    display:flex;
+    background-color: black;
+    color:white;
+    height: 600px;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+#box2{
+    background-color: white;
+    color:black;
+    height: 200px;
+    width: 200px;
+}
